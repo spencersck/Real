@@ -1,0 +1,22 @@
+html{
+    background-color: mediumpurple;
+}
+
+.para {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.par{
+    height: 400px;
+    width: 300px;
+    background-color: blue;
+    border: 2px solid red;
+}
+.paras{
+    height: 600px;
+    width: 250px;
+    background-color: green;
+    border-radius: 6px;
+}
